@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccf2606d.chunk.css",
+    "main.js": "/static/js/main.8490e715.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.b8fa0ce9.js",
+    "static/css/2.5537b6e8.chunk.css": "/static/css/2.5537b6e8.chunk.css",
+    "static/js/2.c08b5bf4.chunk.js": "/static/js/2.c08b5bf4.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.a94708d832a51d6ae8803ead5b91e31b.js": "/precache-manifest.a94708d832a51d6ae8803ead5b91e31b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.c08b5bf4.chunk.js.LICENSE.txt": "/static/js/2.c08b5bf4.chunk.js.LICENSE.txt",
+    "static/media/analyze.svg": "/static/media/analyze.338be757.svg",
+    "static/media/angle-up.60d89147.svg": "/static/media/angle-up.60d89147.svg",
+    "static/media/arrowfrom.7ce61070.svg": "/static/media/arrowfrom.7ce61070.svg",
+    "static/media/brandLogo.png": "/static/media/brandLogo.c6f30003.png",
+    "static/media/checkCircle.df2893cb.svg": "/static/media/checkCircle.df2893cb.svg",
+    "static/media/diagSwitch.svg": "/static/media/diagSwitch.6f3c8012.svg",
+    "static/media/emplusWhite.png": "/static/media/emplusWhite.3594cafb.png",
+    "static/media/empluslogin.jpg": "/static/media/empluslogin.5a51605f.jpg",
+    "static/media/errorboundary.svg": "/static/media/errorboundary.f0a0e582.svg",
+    "static/media/key.svg": "/static/media/key.90ca1815.svg",
+    "static/media/pen.svg": "/static/media/pen.720fb402.svg",
+    "static/media/index.css": "/static/media/roboto-latin-900italic.ebf6d164.woff2",
+    "static/media/serverSolid.2ab364c4.svg": "/static/media/serverSolid.2ab364c4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8fa0ce9.js",
+    "static/css/2.5537b6e8.chunk.css",
+    "static/js/2.c08b5bf4.chunk.js",
+    "static/css/main.ccf2606d.chunk.css",
+    "static/js/main.8490e715.chunk.js"
+  ]
+}
